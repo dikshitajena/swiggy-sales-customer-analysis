@@ -40,7 +40,7 @@ The project follows a business-analysis workflow, from data cleaning and organis
 
 The interactive Excel dashboard brings together product performance, customer sales contribution, discount-related feedback, location performance, and monthly sales trends.
 
-See the dashboard image in the [here](
+See the dashboard image in the [here](https://github.com/dikshitajena/swiggy-sales-customer-analysis/blob/main/DASHBOARD.png).
 
 ## Data Quality & Limitations
 
@@ -68,4 +68,7 @@ An Excel workbook containing the cleaned data, PivotTables, visualisations, anal
 ## Author
 
 DIKSHITA JENA
-Aspiring Data Analyst
+
+Aspiring Data/Business Analyst
+
+Advanced Excel | SQL | Power BI | Python
