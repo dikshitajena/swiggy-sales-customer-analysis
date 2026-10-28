@@ -1,5 +1,5 @@
 # swiggy-sales-customer-analysis
-End-to-end retail profit optimization analysis using Excel, SQL, and Power BI to model a 12% → 18% profit margin improvement strategy across 9,994 orders. Root cause analysis provided key insights. Accordingly realistic business recommendations provided.
+Raw and messy data Cleaning using Power Query and Data Automation followed by Data analysis using pivot tables to extract actionable insights and built an interactive Dashboard.
 
 # Swiggy Sales & Customer Analysis
 
